@@ -1,0 +1,9 @@
+.content {
+  grid-area: c;
+  background-color: rgb(231, 227, 185);
+}
+/* 
+.content img {
+  width: 100%;
+  height: 350px;
+} */
