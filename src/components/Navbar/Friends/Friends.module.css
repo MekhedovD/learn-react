@@ -1,0 +1,9 @@
+.item {
+  padding-top: 15px;
+}
+
+.item a {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
